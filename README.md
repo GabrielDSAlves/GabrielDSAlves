@@ -10,7 +10,9 @@
   
   <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-      <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://acegif.com/wp-content/gif/baby-yoda-1.gif">
+      <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://acegif.com/wp-content/gif/baby-yoda-1.gif">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
